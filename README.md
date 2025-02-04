@@ -1,7 +1,7 @@
 # linkedIn_scraping
 
 Students often ask the following question:
-What certifications are worthy and I should get, so I can get a good internship or job?
+What certifications are worthy and I should get, so I can get a good internship?
 
 Well in this project, I tried to answer this frequently asked question.
 I scraped LinkedIn to search and collect data related to the certifications that the employers of a company have.
