@@ -13,3 +13,7 @@ The user of my program can choose whatever company he wants and get a table of c
   - Navigating the page, clicking on elements, filling 'username / password' fields, changing pages dynamically
   - Problem Solving and handling probable errors related to scraping.
   - LinkedIn strict laws about scraping :)
+
+
+#### Note: 
+This project is for educational purposes only and should not be used for commercial purposes or to violate any website's terms of service
